@@ -1,0 +1,6 @@
+/droplet-core/target/
+
+# Project exclude paths
+/quantum-common/target/
+/quantum-config/target/
+/quantum-spark-core/target/

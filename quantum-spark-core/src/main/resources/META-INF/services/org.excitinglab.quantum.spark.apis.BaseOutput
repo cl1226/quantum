@@ -1,0 +1,4 @@
+org.excitinglab.quantum.spark.core.output.batch.Stdout
+org.excitinglab.quantum.spark.core.output.batch.Mysql
+org.excitinglab.quantum.spark.core.output.batch.Hive
+org.excitinglab.quantum.spark.core.output.batch.Clickhouse

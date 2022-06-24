@@ -5,3 +5,4 @@ org.excitinglab.quantum.spark.core.input.batch.Jdbc
 org.excitinglab.quantum.spark.core.input.batch.Mysql
 org.excitinglab.quantum.spark.core.input.batch.Hive
 org.excitinglab.quantum.spark.core.input.batch.Sqlserver
+org.excitinglab.quantum.spark.core.input.batch.redis.Redis

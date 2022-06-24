@@ -30,6 +30,12 @@
         </dependency>
 
         <dependency>
+            <groupId>org.excitinglab</groupId>
+            <artifactId>quantum-connector-spark-redis</artifactId>
+            <version>1.0.0</version>
+        </dependency>
+
+        <dependency>
             <groupId>com.github.scopt</groupId>
             <artifactId>scopt_2.11</artifactId>
             <version>3.7.1</version>

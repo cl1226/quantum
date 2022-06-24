@@ -183,7 +183,7 @@ class ConfigBuilder(configFile: String) {
     if (qualifier.split("\\.").length == 1) {
 
       val packageName = classType match {
-        case "input" => ConfigBuilder.InputPackage + "." + getInputType(name, engine)
+        case "input" => ConfigBuilder.InputPackage + "." + getInputType(name, engine) + "." + name
         case "transform" => ConfigBuilder.TransformPackage
         case "output" => ConfigBuilder.OutputPackage + "." + engine
       }

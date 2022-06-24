@@ -1,4 +1,4 @@
-package org.excitinglab.quantum.spark.flink.utils;
+package org.excitinglab.quantum.flink.utils;
 
 import java.awt.*;
 import java.awt.image.BufferedImage;

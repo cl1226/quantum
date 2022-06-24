@@ -1,4 +1,4 @@
-package org.excitinglab.quantum.spark.flink.config;
+package org.excitinglab.quantum.flink.config;
 
 /**
  */

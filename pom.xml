@@ -13,6 +13,7 @@
         <module>quantum-common</module>
         <module>quantum-spark-core</module>
         <module>quantum-flink-core</module>
+        <module>quantum-connectors</module>
     </modules>
 
     <properties>

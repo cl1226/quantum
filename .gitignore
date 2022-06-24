@@ -4,3 +4,4 @@
 /quantum-common/target/
 /quantum-config/target/
 /quantum-spark-core/target/
+/quantum-connectors/quantum-connector-spark/quantum-connector-spark-redis/target/
